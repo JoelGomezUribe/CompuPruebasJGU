@@ -1,1 +1,1 @@
-# CompuPruebasJGU
+# TrabajosComputacionJGU8093
